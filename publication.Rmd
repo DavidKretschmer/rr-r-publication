@@ -36,7 +36,9 @@ l<-lapply(list("plyr","reshape2","ggmap","ggplot2","scales","rgdal","maptools","
 
 ## Introduction 
 
-This example publication serves as a motivation on how to create reproducible documents in R and aims to promote reproducible research in general.
+Test
+This
+Here
 
 ## State of the Art
 
