@@ -4,6 +4,8 @@
 
 This tutorial in the context of the **Reproducible Research Workshop** provides you with the first steps on how to write publications in R.
 
+Check this, my favorite cheesecake.
+
 **Objectives of this tutorial:**
 
 * Installation and setup of R, RStudio and Miktex
